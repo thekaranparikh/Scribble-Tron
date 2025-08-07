@@ -51,9 +51,9 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 
 ## 📷 Preview
 
-| The Bot in Action |
-|-------------------|
-| ![Bot Photo](./docs/bot_photo.jpg) |
+| Bot in Action | Output Drawing |
+|---------------|----------------|
+| ![Bot Photo](./docs/bot_photo.jpg) | ![Output](./docs/Output.jpg) |
 
 ---
 
