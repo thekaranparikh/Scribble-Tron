@@ -1,22 +1,22 @@
-# ✍️ Scribble-Tron: The DIY Writing Robot
+#  Scribble-Tron: Writing Robot
 
 Scribble-Tron is a compact, open-source writing bot designed to draw complex vector images and text using CNC principles. By combining a simple Arduino setup with stepper motors and G-code control, it offers a low-cost solution for automated writing and sketching.
 
 ---
 
-## 📥 Downloads
+##  Downloads
 
 | Tool / File | Link |
 |-------------|------|
-| 🧠 Arduino Firmware (GRBL + Servo) | [firmware/grbl-servo-master.zip](./firmware/grbl-servo-master.zip) |
-| 🖼️ Inkscape Extension (for G-code export) | [software/extension_mi_inkscape.zip](./software/extension_mi_inkscape.zip) |
-| 🛠️ Arduino IDE | [arduino.cc/en/software](https://www.arduino.cc/en/software) |
-| 🎮 Universal G-code Sender (UGS) | [winder.github.io/ugs_website/](https://winder.github.io/ugs_website/) |
-| 📋 Bill of Materials | [bom/BOM.md](./bom/BOM.md) |
+|  Arduino Firmware (GRBL + Servo) | [firmware/grbl-servo-master.zip](./firmware/grbl-servo-master.zip) |
+|  Inkscape Extension (for G-code export) | [software/extension_mi_inkscape.zip](./software/extension_mi_inkscape.zip) |
+|  Arduino IDE | [arduino.cc/en/software](https://www.arduino.cc/en/software) |
+|  Universal G-code Sender (UGS) | [winder.github.io/ugs_website/](https://winder.github.io/ugs_website/) |
+|  Bill of Materials | [bom/BOM.md](./bom/BOM.md) |
 
 ---
 
-## 🧰 Getting Started
+##  Getting Started
 
 ### 1. Arduino Setup
 - Download and install [Arduino IDE](https://www.arduino.cc/en/software)
@@ -40,7 +40,7 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Draw vector art and text
 - G-code compatibility
@@ -49,7 +49,7 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 
 ---
 
-## 📷 Preview
+##  Preview
 
 | Bot in Action | Output Drawing |
 |---------------|----------------|
@@ -57,7 +57,7 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 
 ---
 
-## 🧾 Bill of Materials
+##  Bill of Materials
 
 Full component list with prices and links:  
 → [BOM.md](./docs/BOM.md)  
@@ -65,13 +65,13 @@ Full component list with prices and links:
 
 ---
 
-## 🧠 About the Project
+##  About the Project
 
 The Scribble-Tron project aims to develop a writing machine that can render complex designs and text as input. By leveraging Computer Numerical Control (CNC) technology, it enhances precision, repeatability, and efficiency in design replication.
 
 ---
 
-## 💡 License
+##  License
 
 This project is licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for more info.
