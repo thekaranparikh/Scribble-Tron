@@ -11,8 +11,8 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 | 🧠 Arduino Firmware (GRBL + Servo) | [firmware/grbl-servo-master.zip](./firmware/grbl-servo-master.zip) |
 | 🖼️ Inkscape Extension (for G-code export) | [software/extension_mi_inkscape.zip](./software/extension_mi_inkscape.zip) |
 | 🛠️ Arduino IDE | [arduino.cc/en/software](https://www.arduino.cc/en/software) |
-| 🎮 UGS (Universal G-code Sender) | [winder.github.io/ugs_website/](https://winder.github.io/ugs_website/) |
-| 📋 Bill of Materials | [BOM.md](./bom/BOM.md) |
+| 🎮 Universal G-code Sender (UGS) | [winder.github.io/ugs_website/](https://winder.github.io/ugs_website/) |
+| 📋 Bill of Materials | [bom/BOM.md](./bom/BOM.md) |
 
 ---
 
@@ -29,7 +29,7 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 ### 2. Preparing the Drawing
 - Install [Inkscape](https://inkscape.org/)
 - Add the extension from `/software/extension_mi_inkscape.zip` to your Inkscape extensions folder:
-  - Usually found in: `C:\Users\YourName\AppData\Roaming\inkscape\extensions`
+  - On Windows: `C:\Users\YourName\AppData\Roaming\inkscape\extensions`
 - Use Inkscape to create your vector design and export it as G-code
 
 ### 3. Sending G-code to the Bot
@@ -51,11 +51,9 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 
 ## 📷 Preview
 
-> *(Add photos of your bot and output here in `/docs/`)*
-
-| The Bot | Output Sample |
-|---------|---------------|
-| ![Bot](./docs/bot_photo.jpg) | ![Drawing](./docs/output.jpg) |
+| The Bot in Action |
+|-------------------|
+| ![Bot Photo](./docs/bot_photo.jpg) |
 
 ---
 
@@ -63,7 +61,7 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 
 Full component list with prices and links:  
 → [BOM.md](./bom/BOM.md)  
-[Google Sheets Version](https://docs.google.com/spreadsheets/d/1JKwAK4Ukw1zefZA47349bDCX6iBTZpc3zfQlEFtP45Q/edit?usp=sharing)
+📄 [Google Sheets Version](https://docs.google.com/spreadsheets/d/1JKwAK4Ukw1zefZA47349bDCX6iBTZpc3zfQlEFtP45Q/edit?usp=sharing)
 
 ---
 
