@@ -60,7 +60,7 @@ Scribble-Tron is a compact, open-source writing bot designed to draw complex vec
 ## 🧾 Bill of Materials
 
 Full component list with prices and links:  
-→ [BOM.md](./bom/BOM.md)  
+→ [BOM.md](./docs/BOM.md)  
 📄 [Google Sheets Version](https://docs.google.com/spreadsheets/d/1JKwAK4Ukw1zefZA47349bDCX6iBTZpc3zfQlEFtP45Q/edit?usp=sharing)
 
 ---
